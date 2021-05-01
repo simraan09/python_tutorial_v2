@@ -1,5 +1,4 @@
-# Array
-"""
+
 # Negative index => index from backward
 # [1:] => from index 1 to end
 # [1:3] => from index 1 to 2 (3 excluded)
@@ -18,6 +17,3 @@ name_list.pop()  # Remove last item
 # number_list.reverse()
 number_list2 = number_list.copy()
 print(number_list2)
-"""
-
-# Tuple => immutable (cannot modify)
